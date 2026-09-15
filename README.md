@@ -48,17 +48,17 @@ Two files are needed: CreateNHKXMLTV.py and requirements.txt.
 2. Download the required files from the repository
 
     - Either direct from here (place the files in the folder created earlier):
-    > [CreateNHKXMLTV.py](https://github.com/solidsnake1298/NHK-World-EPG-to-XMLTV/blob/master/Python/CreateNHKXMLTV.py)  
-    > [requirements.txt](https://github.com/solidsnake1298/NHK-World-EPG-to-XMLTV/blob/master/Python/requirements.txt)
+    > [CreateNHKXMLTV.py](https://github.com/thedreaddpirate/NHK-World-EPG-to-XMLTV/blob/master/Python/CreateNHKXMLTV.py)  
+    > [requirements.txt](https://github.com/thedreaddpirate/NHK-World-EPG-to-XMLTV/blob/master/Python/requirements.txt)
 
     - or from the terminal:  
 
     ```shell
-    curl -O https://raw.githubusercontent.com/solidsnake1298/NHK-World-EPG-to-XMLTV/refs/heads/master/Python/CreateNHKXMLTV.py
+    curl -O https://raw.githubusercontent.com/thedreaddpirate/NHK-World-EPG-to-XMLTV/refs/heads/master/Python/CreateNHKXMLTV.py
     ```
 
     ```shell
-    curl -O https://raw.githubusercontent.com/solidsnake1298/NHK-World-EPG-to-XMLTV/refs/heads/master/Python/requirements.txt
+    curl -O https://raw.githubusercontent.com/thedreaddpirate/NHK-World-EPG-to-XMLTV/refs/heads/master/Python/requirements.txt
     ```
 
 3. Set up the environment:
